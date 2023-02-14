@@ -1,0 +1,26 @@
+.speech{
+    font-size: 20px;
+    color: black;
+}
+.direction{
+    font-size: 25px;
+    color:black;
+    background-color: antiquewhite;
+    
+      
+}
+.direction:hover{
+ color: red;
+ font-size: 15px;
+ background-color:beige;
+}
+
+.LUKA{
+    color:rgb(50, 150 , 200);
+    font-size: 20px;
+}
+
+.MRSPOPOV{
+    color: rgb(30, 100, 150);
+    font-size: 15px;
+}
