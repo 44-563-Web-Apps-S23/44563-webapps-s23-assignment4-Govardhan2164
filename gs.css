@@ -33,16 +33,25 @@ table, th, td {
     padding: 15px;
     margin: 25px 50px 75px 380px;
 }
-    tr:hover {background-color: orange;}
+tr:hover {background-color: orange;}
 
-    th {
+th {
         background-color: rgb(76, 102, 76);
         color: black;
     }
       
-    tr:nth-child(even) {
+tr:nth-child(even) {
         background-color: #e3dede;
       }
 
-      
+.LUKA:hover{
+    color: green;
+    border: dotted 2px aqua;
+    text-shadow: 4px 5px 9px blue;
+}
+.MRSPOPOV:hover{
+    color: blueviolet;
+    border: dotted 3px red;
+    text-shadow: 4px 3px 8px crimson ;
+}     
 
